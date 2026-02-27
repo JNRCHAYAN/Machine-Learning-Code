@@ -1,14 +1,79 @@
 Make,colour,odometer,Doors,Price
-Toyota,Red,235234,4," $34,345.00 "
-BMW,Red,234234,3," $345,345.00 "
-Toyota,Yellow,574,5," $78,678,678.00 "
-Honda,Yellow,57,4," $5,576,567.00 "
-Honda,Yellow,764,3," $2,523,525.00 "
-Honda,Red,3523,5," $23,523,523.00 "
-Toyota,White,23,5," $2,523,525,235.00 "
-BMW,White,423,4," $234,234.00 "
-BMW,White,42,5," $23,462.00 "
-BMW,White,34,3," $24,523,523.00 "
-Nissan,Black,6,6," $245,235.00 "
-Toyota,Black,523,4," $345,235.00 "
-BMW,Black,4234,3," $35,234.00 "
+Toyota,Red,235234,4,34345
+BMW,Red,234234,3,345345
+Toyota,Yellow,574,5,78678678
+Honda,Yellow,57,4,5576567
+Honda,Yellow,764,3,2523525
+Honda,Red,3523,5,43535
+Toyota,White,23,5,234224
+BMW,White,423,4,423421
+BMW,White,42,5,23462
+BMW,White,34,3,576345
+Nissan,Black,6,6,245235
+Toyota,Black,523,4,345235
+BMW,Black,4234,3,35234
+Toyota,Red,235234,4,34345
+BMW,Red,234234,3,345345
+Toyota,Yellow,574,5,24234
+Honda,Yellow,57,4,2324
+Honda,Yellow,764,3,45234
+Honda,Red,3523,5,343432
+Toyota,White,23,5,34534
+BMW,White,423,4,234234
+BMW,White,42,5,23462
+BMW,White,34,3,342342
+Nissan,Black,6,6,245235
+Toyota,Black,523,4,345235
+BMW,Black,4234,3,35234
+Toyota,Red,235234,4,34345
+BMW,Red,234234,3,345345
+Toyota,Yellow,574,5,78678678
+Honda,Yellow,57,4,5576567
+Honda,Yellow,764,3,2523525
+Honda,Red,3523,5,43535
+Toyota,White,23,5,234224
+BMW,White,423,4,423421
+BMW,White,42,5,23462
+BMW,White,34,3,576345
+Nissan,Black,6,6,245235
+Toyota,Black,523,4,345235
+BMW,Black,4234,3,35234
+Toyota,Red,235234,4,34345
+BMW,Red,234234,3,345345
+Toyota,Yellow,574,5,24234
+Honda,Yellow,57,4,2324
+Honda,Yellow,764,3,45234
+Honda,Red,3523,5,343432
+Toyota,White,23,5,34534
+BMW,White,423,4,234234
+BMW,White,42,5,23462
+BMW,White,34,3,342342
+Nissan,Black,6,6,245235
+Toyota,Black,523,4,345235
+BMW,Black,4234,3,35234
+Toyota,Red,235234,4,34345
+BMW,Red,234234,3,345345
+Toyota,Yellow,574,5,78678678
+Honda,Yellow,57,4,5576567
+Honda,Yellow,764,3,2523525
+Honda,Red,3523,5,43535
+Toyota,White,23,5,234224
+BMW,White,423,4,423421
+BMW,White,42,5,23462
+BMW,White,34,3,576345
+Nissan,Black,6,6,245235
+Toyota,Black,523,4,345235
+BMW,Black,4234,3,35234
+Toyota,Red,235234,4,34345
+BMW,Red,234234,3,345345
+Toyota,Yellow,574,5,24234
+Honda,Yellow,57,4,2324
+Honda,Yellow,764,3,45234
+Honda,Red,3523,5,343432
+Toyota,White,23,5,34534
+BMW,White,423,4,234234
+BMW,White,42,5,23462
+BMW,White,34,3,342342
+Nissan,Black,6,6,245235
+Toyota,Black,523,4,345235
+BMW,Black,4234,3,35234
